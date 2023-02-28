@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shakhzod235
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me: shakhzod235@mail.ru
+- 📫 How to reach me: shakhzodikramov235@gmail.com
