@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shakhzod235
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning React.
 - 📫 How to reach me: shakhzodikramov235@gmail.com
